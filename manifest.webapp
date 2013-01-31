@@ -2,8 +2,8 @@
   "name": "Operator Shelf",
   "version": "1.0",
   "description": "Demos the Operator Shelf Feature",
-  "launch_path": "/operator-shelf/index.html",
-  "appcache_path": "/operator-shelf/manifest.appcache",
+  "launch_path": "/index.html",
+  "appcache_path": "/manifest.appcache",
   "icons": {
     "64": "media/64.png",
     "128": "media/128.png"
