@@ -25,6 +25,7 @@ section li {
     display: inline-block;
     width: 320px;
     height: 480px;
+    vertical-align: top;
 }
 
 .control {
